@@ -134,5 +134,8 @@ Not financial advice. Do not use capital you cannot afford to lose.
 | BulkSOL guide | [builtonbulk.xyz/bulksol](https://builtonbulk.xyz/bulksol) |
 | Loop strategy | [builtonbulk.xyz/bulksol-loop-strategy](https://builtonbulk.xyz/bulksol-loop-strategy) |
 | Official Discord | [discord.gg/bulk](https://discord.gg/bulk) |
+| Airdrop checklist gist | [gist.github.com/andrewhayter/8d89c2ad6190452247ecfd2f32e33366](https://gist.github.com/andrewhayter/8d89c2ad6190452247ecfd2f32e33366) |
+| Developer docs repo | [github.com/andrewhayter/bulk-exchange-docs](https://github.com/andrewhayter/bulk-exchange-docs) |
+| TypeScript SDK + bot recipes | [bulk-exchange-docs/typescript](https://github.com/andrewhayter/bulk-exchange-docs/tree/main/typescript) |
 
 *Use referral code **`yeti`** at [builtonbulk.xyz/go/bulk-app](https://builtonbulk.xyz/go/bulk-app)*
