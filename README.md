@@ -58,11 +58,11 @@ When a referred account holds $100+ through the weekly snapshot, you earn AURA. 
 **Step 4: Hold BulkSOL**
 
 BulkSOL holders receive AURA every week in Season 1. BulkSOL also earns:
-- Base Solana staking (~7% APY)
+- Base Solana staking (variable APY — check current rate at early.bulk.trade)
 - MEV tips
 - 12.5% of all BULK Exchange trading fees (post-mainnet)
 
-Swap SOL → BulkSOL via Titan Exchange at [early.bulk.trade](https://builtonbulk.xyz/go/bulk-app).
+Swap SOL → BulkSOL via [Titan Exchange](https://titan.exchange/@hittincorners).
 
 **Step 5: Deposit BulkSOL on Exponent Finance**
 
@@ -91,7 +91,7 @@ BULK explicitly prompts for X connection during onboarding. Connected accounts a
 For yield maximizers:
 
 ```
-1. Swap SOL → BulkSOL on Titan
+1. Swap SOL → BulkSOL on Titan Exchange
 2. Deposit BulkSOL on Exponent Finance as collateral
 3. Borrow SOL on Loopscale against BulkSOL
 4. Swap borrowed SOL → BulkSOL
@@ -99,6 +99,9 @@ For yield maximizers:
 ```
 
 Amplifies all four BulkSOL yield streams. Introduces liquidation risk. Read the full guide before attempting: [builtonbulk.xyz/bulksol-loop-strategy](https://builtonbulk.xyz/bulksol-loop-strategy)
+
+- [Titan Exchange](https://titan.exchange/@hittincorners) — swap SOL → BulkSOL
+- [Loopscale](https://loop.sl/i/ivL9G) — leverage your BulkSOL position
 
 ---
 
@@ -128,14 +131,13 @@ Not financial advice. Do not use capital you cannot afford to lose.
 
 | Resource | URL |
 |----------|-----|
-| Pre-deposit | [early.bulk.trade/deposit](https://builtonbulk.xyz/go/bulk-app) |
+| Pre-deposit (ref: yeti) | [early.bulk.trade/deposit](https://builtonbulk.xyz/go/bulk-app) |
 | Full airdrop guide | [builtonbulk.xyz/airdrop-checklist](https://builtonbulk.xyz/airdrop-checklist) |
 | Aura points explained | [builtonbulk.xyz/aura-points-guide](https://builtonbulk.xyz/aura-points-guide) |
 | BulkSOL guide | [builtonbulk.xyz/bulksol](https://builtonbulk.xyz/bulksol) |
 | Loop strategy | [builtonbulk.xyz/bulksol-loop-strategy](https://builtonbulk.xyz/bulksol-loop-strategy) |
+| Titan Exchange (SOL → BulkSOL) | [titan.exchange/@hittincorners](https://titan.exchange/@hittincorners) |
+| Loopscale (leverage loop) | [loop.sl/i/ivL9G](https://loop.sl/i/ivL9G) |
 | Official Discord | [discord.gg/bulk](https://discord.gg/bulk) |
-| Airdrop checklist gist | [gist.github.com/andrewhayter/8d89c2ad6190452247ecfd2f32e33366](https://gist.github.com/andrewhayter/8d89c2ad6190452247ecfd2f32e33366) |
-| Developer docs repo | [github.com/andrewhayter/bulk-exchange-docs](https://github.com/andrewhayter/bulk-exchange-docs) |
-| TypeScript SDK + bot recipes | [bulk-exchange-docs/typescript](https://github.com/andrewhayter/bulk-exchange-docs/tree/main/typescript) |
 
 *Use referral code **`yeti`** at [builtonbulk.xyz/go/bulk-app](https://builtonbulk.xyz/go/bulk-app)*
