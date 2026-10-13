@@ -34,21 +34,41 @@ Use referral code **`YETI`** when signing up.
 
 Full guide: [builtonbulk.xyz/airdrop-checklist](https://builtonbulk.xyz/airdrop-checklist)
 
-### Current free access-code batch (October 3, 2026)
+### Current free access-code batch (October 10, 2026)
 
 These codes are one-time use and reset weekly. If one fails, it has already been claimed or the batch has rolled over; use the next code or check the [canonical live list](https://builtonbulk.xyz/bulk-access-codes).
 
 ```text
-BULK-29U-YET BULK-8XE-TZX BULK-6KE-F6T BULK-XQB-BPQ BULK-Y79-W4N BULK-4EU-5RY
-BULK-92M-RF3 BULK-45W-C2H BULK-XYX-S4C BULK-QFB-Q33 BULK-75G-NMS BULK-VE9-X3M
-BULK-UBB-EYM BULK-XCN-PBY BULK-UYM-NTR BULK-ZMP-ER2 BULK-U97-RPG BULK-UQH-Q25
-BULK-K9Y-VNT BULK-BR8-J24 BULK-AS9-T8Y BULK-453-V39 BULK-K73-6ET BULK-5ZU-S33
-BULK-97Z-SN8 BULK-JGE-9F6 BULK-GW6-36E BULK-FT9-S5P BULK-U79-Z5W BULK-VE8-WZN
-BULK-FA9-QCD BULK-TH5-UEQ BULK-K79-Q95 BULK-F84-MST BULK-YM6-YBK BULK-8U9-QVU
-BULK-XCE-DGM BULK-WBW-ZPT BULK-9V3-Q3G BULK-EWS-CGF BULK-6CD-9AV BULK-334-SFQ
-BULK-B97-4DW BULK-WS9-RNS BULK-Y8X-AA4 BULK-FZ9-NEK BULK-NZJ-PZJ BULK-3TQ-EY6
-BULK-G5X-4Y7 BULK-6CR-9TU BULK-TMJ-U7Y BULK-8UN-PW9 BULK-QAN-HMR BULK-X7A-XFW
-BULK-KFD-DKU
+BULK-G3Q-JV3
+BULK-ZE9-CN7
+BULK-KAW-2VZ
+BULK-WU5-PS2
+BULK-6T4-QE2
+BULK-EJY-H6H
+BULK-8GJ-CRG
+BULK-SGK-EQS
+BULK-EH7-ACM
+BULK-JH8-VDS
+BULK-8JP-GWY
+BULK-U8G-8G5
+BULK-GBX-H9G
+BULK-PZP-TUD
+BULK-QM2-AKQ
+BULK-678-23M
+BULK-8GN-5WH
+BULK-6W9-CSM
+BULK-EXP-A5E
+BULK-W3D-SXU
+BULK-W86-XPC
+BULK-8X8-BE2
+BULK-6DZ-X4U
+BULK-ACW-5J7
+BULK-28R-ABY
+BULK-Z3K-NEA
+BULK-UKE-638
+BULK-CXX-9BM
+BULK-3Y3-MPK
+BULK-A6M-2NT
 ```
 
 ---
@@ -195,4 +215,4 @@ _Use referral code **`YETI`** at [app.bulk.trade/ref/YETI](https://app.bulk.trad
 | AURA tracker tools (Season 1 historical) | [github.com/andrewhayter/bulk-aura-tracker](https://github.com/andrewhayter/bulk-aura-tracker) |
 | Full community guide | [builtonbulk.xyz/airdrop-checklist](https://builtonbulk.xyz/airdrop-checklist) |
 
-_Last updated: October 3, 2026 — reflects mainnet (live Sept 5, 2026) and the current access-code batch._
+_Last updated: October 10, 2026 — reflects mainnet (live Sept 5, 2026) and the current access-code batch._
